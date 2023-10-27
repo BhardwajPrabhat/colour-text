@@ -4,7 +4,7 @@ Currently,  I am pursuing B.tech. being 3rd year student.**
 
 You guys are wondering what this is.
 
-Let me explain....👇
+Let me explain...👇
 
 👉 Basically,  this is the program which can draw any string (of max. 2 words ) automatically. 
 👉You can give input of color,size and string, you want to print.
