@@ -1,6 +1,6 @@
-Hello !! 👋🏻 
+**Hello !! 👋🏻 
 I am Prabhat Bhardwaj.
-Currently,  I am pursuing B.tech. being 3rd year student.
+Currently,  I am pursuing B.tech. being 3rd year student.**
 
 You guys are wondering what this is.
 
